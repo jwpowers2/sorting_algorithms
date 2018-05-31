@@ -1,4 +1,5 @@
 // quick sort in js
+// worst case --> O n^2
 
 function quicksort(arr){
 
